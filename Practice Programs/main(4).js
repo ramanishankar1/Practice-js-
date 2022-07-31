@@ -1,0 +1,1 @@
+text=document.querySelector(".aim");

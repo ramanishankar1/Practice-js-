@@ -1,0 +1,1 @@
+ram=document.querySelectorAll(".ram,Hanuman")
